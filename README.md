@@ -28,6 +28,7 @@ que le corresponda. (Usando GET /api/Employee y GET /api/Company).
  * Agregar un nuevo Employee a la aplicación, para ello debemos investigar cómo
 realizar un POST contra la API y proveer el siguiente objeto JSON. (Usando
 POST /api/Employee).
+
 ![Imagen de guia](https://i.ibb.co/2c4D1Jr/image.png)
 
 
